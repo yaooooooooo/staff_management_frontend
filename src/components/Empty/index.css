@@ -1,0 +1,6 @@
+.empty-text{
+    color: var(--lightgreyColor);
+    text-align: center;
+    font-size: var(--middleFontSize);
+    padding: 10px 0;
+}
